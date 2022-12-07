@@ -1,6 +1,6 @@
 # Public Key Cryptography
 
-Public Key Cryptography with ECDSA (Elliptic Curve Digital Signature Algorithm)
+Public Key Cryptography with ECDSA (Elliptic Curve Digital Signature Algorithm). This challenge is part of [Alchemy University](https://university.alchemy.com)'s Ethereum Developer Bootcamp.
 
 ## Goal
 
